@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="QuestionTextViewStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="CardStyle" parent="CardView.Light">
+        <item name="cardCornerRadius">10sp</item>
+        <item name="cardUseCompatPadding">true</item>
+        <item name="contentPadding">4dp</item>
+        <item name="elevation">4dp</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+
+
+</resources>

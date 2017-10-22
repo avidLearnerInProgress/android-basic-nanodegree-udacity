@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">SoccerQuizV3</string>
+
+    <!--Questions-->
+    <string name="q1">Which Premier League football club are known as The Cherries?</string>
+    <string name="q2">Which Premier League striker has made senior international appearances for both Brazil and Spain?</string>
+    <string name="q3">As a player, Southampton manager Claude Puel made over 480 senior appearances for which French club?</string>
+    <string name="q4">Pele became Honorary President of which football club in 2010?</string>
+    <string name="q5">Who scored the only goal when Portugal beat France to win Euro 2016?</string>
+    <string name="q6">Which player scored the first hat-trick of the 2016-17 Premier League season?</string>
+    <string name="q7">Against which club did Paul Pogba make his Manchester United Premier League debut first time around in January?</string>
+    <string name="q8">Manchester United kicked off their Europa League campaign with a 1-0 defeat in the Netherlands against which club?</string>
+    <string name="q9">Thierry Henry made his professional debut with which club? </string>
+    <string name="q10">Which nation won the 1986 World Cup?</string>
+    <string name="q11">Lionel Messi holds the record for most goals in a calendar year but how many did he score?</string>
+    <string name="q12">From which Spanish club did Manchester United sign defender Eric Bailly?</string>
+    <string name="q13">Which Spanish side was named FIFA\'s Club of the Century in 2000?</string>
+    <string name="q14">Alan Shearer scored his 200th Premier League goal for Newcastle in 2003 against which club?</string>
+    <string name="q15">Which French attacker was named \'Player of the Tournament\' at Euro 2016?</string>
+    <string name="q16">Which England player famously fractured a metatarsal in his left foot in the lead up to the 2002 World Cup?</string>
+    <string name="q17">Which Welsh striker holds the record for most Liverpool goals with 346?</string>
+
+    <!--Options-->
+    <string name="one_a">Bournemouth</string>
+    <string name="one_b">Barnsley</string>
+    <string name="one_c">Blackburn Rovers</string>
+    <string name="one_d">Burnley</string>
+
+    <string name="two_a">Diego Costa</string>
+    <string name="two_b">Frank Lampard</string>
+    <string name="two_c">Wayne Rooney</string>
+    <string name="two_d">Lionel Messi</string>
+
+    <string name="three_a">Nice</string>
+    <string name="three_b">Monaco</string>
+    <string name="three_c">Lille</string>
+    <string name="three_d">Marseille</string>
+
+    <string name="four_a">New York Cosmos</string>
+    <string name="four_b">Milan</string>
+    <string name="four_c">Santos</string>
+    <string name="four_d">Fulham</string>
+
+    <string name="five_a">Nani</string>
+    <string name="five_b">Eder</string>
+    <string name="five_c">Ronaldo</string>
+    <string name="five_d">Quaresma</string>
+
+    <string name="six_a">Romel Lukaku</string>
+    <string name="six_b">Sadio Mene</string>
+    <string name="six_c">Christian Benteke</string>
+    <string name="six_d">Eden Hazard</string>
+
+    <string name="seven_a">Arsenal</string>
+    <string name="seven_b">Chelsea</string>
+    <string name="seven_c">Blackburn Rovers</string>
+    <string name="seven_d">Stoke City</string>
+
+    <string name="eight_a">Real Madrid</string>
+    <string name="eight_b">Strasbourg</string>
+    <string name="eight_c">Toulan</string>
+    <string name="eight_d">Feyenoord</string>
+
+    <string name="nine_a">Arsenal</string>
+    <string name="nine_b">Juventus</string>
+    <string name="nine_c">Monaco</string>
+    <string name="nine_d">Eibar</string>
+
+    <string name="ten_a">West Germany</string>
+    <string name="ten_b">Argentina</string>
+    <string name="ten_c">Spain</string>
+    <string name="ten_d">Brazil</string>
+
+    <string name="eleven_a">81</string>
+    <string name="eleven_b">91</string>
+    <string name="eleven_c">111</string>
+    <string name="eleven_d">101</string>
+
+    <string name="twelve_a">Valencia</string>
+    <string name="twelve_b">Celta Vigo</string>
+    <string name="twelve_c">Getafe</string>
+    <string name="twelve_d">Espanyol</string>
+
+    <string name="thirteen_a">Barcelona</string>
+    <string name="thirteen_b">Raal Madrid</string>
+    <string name="thirteen_c">Espanyol</string>
+    <string name="thirteen_d">Valencia</string>
+
+    <string name="fourteen_a">Liecester City</string>
+    <string name="fourteen_b">West Ham United</string>
+    <string name="fourteen_c">Burnley</string>
+    <string name="fourteen_d">Charlton</string>
+
+    <string name="fifteen_a">Antonie Griezmann</string>
+    <string name="fifteen_b">Hugo Lloris</string>
+    <string name="fifteen_c">Paul Pogba</string>
+    <string name="fifteen_d">Dimitri Payet</string>
+
+    <string name="sixteen_a">Beckham</string>
+    <string name="sixteen_b">Rooney</string>
+    <string name="sixteen_c">Shevchenko</string>
+    <string name="sixteen_d">Drogba</string>
+
+    <string name="seventeen_a">Craign Bellamy</string>
+    <string name="seventeen_b">Ian Rush</string>
+    <string name="seventeen_c">Sam Vokes</string>
+    <string name="seventeen_d">Mark Hughes</string>
+
+    <!--Correct Answer-->
+
+    <string name="crr1">Bournemouth</string>
+    <string name="crr2">Diego Costa</string>
+    <string name="crr3">Monaco</string>
+    <string name="crr4">New York Cosmos</string>
+    <string name="crr5">Eder</string>
+    <string name="crr6">Romel Lukaku</string>
+    <string name="crr7">Stoke City</string>
+    <string name="crr8">Feyenoord</string>
+    <string name="crr9">Monaco</string>
+    <string name="crr10">Argentina</string>
+    <string name="crr11">91</string>
+    <string name="crr12">Valencia</string>
+    <string name="crr13">Real Madrid</string>
+    <string name="crr14">Charlton</string>
+    <string name="crr15">Antonie Griezmann</string>
+    <string name="crr16">Beckham</string>
+    <string name="crr17">Ian Rush</string>
+
+
+    <string name="submit">Submit</string>
+
+</resources>

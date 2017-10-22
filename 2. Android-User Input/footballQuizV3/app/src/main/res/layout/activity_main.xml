@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.android.footballquizv3.MainActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFAB91"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+            <include
+                android:id="@+id/question_one"
+                layout="@layout/q_one" />
+
+            <include
+                android:id="@+id/question_two"
+                layout="@layout/q_two" />
+
+            <include
+                android:id="@+id/question_three"
+                layout="@layout/q_three" />
+
+            <include
+                android:id="@+id/question_four"
+                layout="@layout/q_four" />
+
+            <include
+                android:id="@+id/question_five"
+                layout="@layout/q_five" />
+
+            <include
+                android:id="@+id/question_six"
+                layout="@layout/q_six" />
+
+            <include
+                android:id="@+id/question_seven"
+                layout="@layout/q_seven" />
+
+            <include
+                android:id="@+id/question_eight"
+                layout="@layout/q_eight" />
+
+            <include
+                android:id="@+id/question_nine"
+                layout="@layout/q_nine" />
+
+            <include
+                android:id="@+id/question_ten"
+                layout="@layout/q_ten" />
+
+            <include
+                android:id="@+id/question_eleven"
+                layout="@layout/q_eleven" />
+
+            <include
+                android:id="@+id/question_twelve"
+                layout="@layout/q_twelve" />
+
+            <include
+                android:id="@+id/question_thirteen"
+                layout="@layout/q_thirteen" />
+
+            <include
+                android:id="@+id/question_fourteen"
+                layout="@layout/q_fourteen" />
+
+            <include
+                android:id="@+id/question_fifteen"
+                layout="@layout/q_fifteen" />
+
+            <include
+                android:id="@+id/question_sixteen"
+                layout="@layout/q_sixteen" />
+
+            <include
+                android:id="@+id/question_seventeen"
+                layout="@layout/q_seventeen" />
+
+            <Button
+                android:id="@+id/submit"
+                style="@style/ButtonStyle"
+                android:layout_marginLeft="5sp"
+                android:layout_marginRight="5sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/submit" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</layout>
